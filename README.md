@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Chey-DB/Chey-DB/blob/main/chey_brown_banner.png)
 <h1 align="center">Hi 👋, I'm Chey Brown</h1>
 <h5 align="center">👷‍♂️ From Construction to Code 🚀 | Self-taught Software Engineer | La Fosse Academy Graduate | Passionate about AI, Python, and Web Development</h3>
 <img align="right" alt="coding avatar" width="400" src="https://github.com/Chey-DB/Chey-DB/blob/main/coding_avatar.jpg" />
