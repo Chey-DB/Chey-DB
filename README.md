@@ -1,12 +1,10 @@
-![MasterHead](https://github.com/Chey-DB/Chey-DB/blob/main/github_banner.png)
+
 <h1 align="center">Hi 👋, I'm Chey Brown</h1>
-<h5 align="center">👷‍♂️ From Construction to Code 🚀 | Self-taught Software Engineer | La Fosse Academy Graduate | Passionate about AI, Python, and Web Development</h3>
+<h5 align="center">👷‍♂️ Data Scientist | Software Engineer | La Fosse Academy Graduate | Passionate about AI, Python, and Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chey-db&label=Profile%20views&color=0e75b6&style=flat" alt="chey-db" /> </p>
+- 🌱 I’m currently learning: **Pytorch, Langchain**
 
-- 🌱 I’m currently learning: **Testing, Data Engineering**
-
-- 💬 Ask me about: **Python, React, Changing career**
+- 💬 Ask me about: **Python, Chess, Using GPUs to accelerate model training**
 
 - 📫 How to reach me: **cheydb@rocketmail.com**
 
