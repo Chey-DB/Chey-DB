@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/Chey-DB/Chey-DB/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Chey Brown</h1>
 <h5 align="center">👷‍♂️ From Construction to Code 🚀 | Self-taught Software Engineer | La Fosse Academy Graduate | Passionate about AI, Python, and Web Development</h3>
-<img align="right" alt="coding avatar" width="400" src="https://github.com/Chey-DB/Chey-DB/blob/main/coding_avatar.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chey-db&label=Profile%20views&color=0e75b6&style=flat" alt="chey-db" /> </p>
 
