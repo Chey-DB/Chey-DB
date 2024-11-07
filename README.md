@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Chey Brown</h1>
 <h5 align="center">👷‍♂️ Data Scientist | Software Engineer | La Fosse Academy Graduate | Passionate about AI, Python, and Web Development</h3>
+<hr>
+
+
 
 - 🌱 I’m currently learning: **Pytorch, Langchain**
 
